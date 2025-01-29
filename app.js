@@ -1,5 +1,5 @@
 console.log('Welcome to my chalenge');
-let myName = 'Rafael';
+let myName = 'Rafael Amorim';
 console.log('Hello ' + myName);
 alert('Hello ' + myName);
 let question = prompt('Which programming languague do you like most?');
